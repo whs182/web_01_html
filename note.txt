@@ -1,0 +1,8 @@
+网页的第一个名字必须是index.html,
+随时可运行,每写一句就run一下。
+DOCTYPE前面的！是
+history
+meta:元数据
+charset:字符集，默认值：utf-8
+GB18030,中文标准
+
